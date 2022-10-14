@@ -209,13 +209,13 @@ button {
   overflow: hidden;
   bottom: 0px;
   margin: 15px;
-  color: rgb(128, 128, 128);
+  color: rgb(145, 145, 145);
   letter-spacing: 2.5px;
 }
 
 
 @media screen and (max-width: 476px) {
   .footer{
-    background-color: red;
+    font-size: 10px;
   }
 }
